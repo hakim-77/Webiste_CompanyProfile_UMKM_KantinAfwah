@@ -159,7 +159,7 @@ style="width:3.10417in;height:1.43056in" /></p>
 <p>Setelah login, admin akan masuk ke Dashboard admin</p></th>
 </tr>
 <tr class="odd">
-<th><p><img src="public/home.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/menuadmin.png"
 style="width:3.10417in;height:1.43056in" /></p>
 <p>Pada halaman ini juga terdapat halaman untuk admin mengelola data
 menu, bukan hanya menu tetapi admin juga dapat mengelola data about us,
