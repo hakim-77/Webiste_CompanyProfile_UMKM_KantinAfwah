@@ -217,7 +217,7 @@ style="width:3.10417in;height:1.44444in" /></p>
 seputar UMKM</p></th>
 </tr>
 <tr class="header">
-<th><p><img src="media/image17.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/aboutus.png"
 style="width:3.10417in;height:1.45833in" /></p>
 <p>Pada halaman pengunjung terdapat halaman About Us yang berisi
 informasi pengelola dan UMKM</p></th>
