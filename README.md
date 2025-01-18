@@ -195,7 +195,7 @@ Halaman User
 <tr class="header">
 <th><p><img src="media/image22.png"
 style="width:3.10417in;height:1.22222in" /></p>
-<p><img src="media/image24.png"
+<p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/home.png"
 style="width:3.10417in;height:1.44444in" /></p>
 <p>Pada halaman pengunjung terdapat sebuah beranda yang berisi tampilan
 scrolling yang berisi konten seperti slider, promo, kutipan dan
