@@ -1139,7 +1139,7 @@ pada website</th>
 
 ## 3.3 Struktur Detail Kebutuhan Non - Fungsional {#struktur-detail-kebutuhan-non---fungsional}
 
-![](media/image7.png){width="6.5in" height="2.125in"}
+![](https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/erd.png){width="6.5in" height="2.125in"}
 
 3.3.1 Logika Struktur Data
 
