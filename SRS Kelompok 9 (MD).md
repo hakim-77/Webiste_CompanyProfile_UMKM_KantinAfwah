@@ -150,7 +150,7 @@ Halaman Admin
 </colgroup>
 <thead>
 <tr class="header">
-<th><p><img src="media/image25.png"
+<th><p><img src="https://github.com/DimasAdrian29/Webiste_CompanyProfile_UMKM_KantinAfwah/blob/main/public/2.2.1%20Admin%20Login.png"
 style="width:3.10417in;height:1.47222in" /></p>
 <p>Halaman login, admin diminta untuk memasukkan username dan
 password</p></th>
